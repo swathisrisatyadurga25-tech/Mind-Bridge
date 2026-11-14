@@ -4,7 +4,7 @@ A student wellness and study companion with a dark neon theme.
 
 This is a **frontend demo**. It is not a clinic, not a diagnosis tool, and not secure cloud authentication. Your data stays in this browser.
 
-## How to run
+## How to run it
 
 1. Install Node.js (version 18 or newer).
 2. Open a terminal in this folder.
